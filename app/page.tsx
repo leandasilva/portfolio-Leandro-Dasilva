@@ -24,11 +24,6 @@ export default function Home() {
       href: "/landing4-datup",
     },
     {
-      titulo: "Contaduría General de Corrientes - React",
-      descripcion: "Portfolio personal con React + Tailwind",
-      href: "/landing5-contaduria-react",
-    },
-    {
       titulo: "React Native - Proyecto en desarrollo",
       descripcion: "Portfolio personal con React Native + Tailwind",
       href: "/",
