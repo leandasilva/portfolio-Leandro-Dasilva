@@ -14,11 +14,6 @@ export default function Home() {
       href: "/landing1-frases",
     },
     {
-      titulo: "Contaduría General de Corrientes",
-      descripcion: "Página institucional en la que participé en mi trabajo actual",
-      href: "/landing3-contaduria",
-    },
-    {
       titulo: "Datup (En desarrollo)",
       descripcion: "Proyecto en el que trabajo en remoto actualmente",
       href: "/landing4-datup",
