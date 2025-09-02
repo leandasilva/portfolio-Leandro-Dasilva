@@ -54,7 +54,7 @@ export default function Home() {
         <p className="text-lg font-semibold mb-3">Leandro Da Silva</p>
         <div className="flex justify-center gap-6">
           <a
-            href="https://www.linkedin.com/in/leandro-da-silva/"
+            href="https://www.linkedin.com/in/leandro-kowalyszyn-8474b7237"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 px-4 py-2 rounded-lg bg-blue-700 hover:bg-blue-600 transition transform hover:scale-105 shadow-lg"
@@ -62,7 +62,7 @@ export default function Home() {
             <FaLinkedin className="text-white" /> LinkedIn
           </a>
           <a
-            href="https://github.com/leandro-da-silva"
+            href="https://github.com/leandasilva"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 px-4 py-2 rounded-lg bg-gray-800 hover:bg-gray-700 transition transform hover:scale-105 shadow-lg"
