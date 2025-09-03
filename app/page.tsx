@@ -14,6 +14,11 @@ export default function Home() {
       href: "/landing1-frases",
     },
     {
+      titulo: "Contaduría general de Corrientes",
+      descripcion: "App con React + Redux + Node.js + Pl/SQl + Oracle + Java + Spring Boot",
+      href: "/landing3-contaduria-react",
+    },
+    {
       titulo: "Datup (En desarrollo)",
       descripcion: "Proyecto en el que trabajo en remoto actualmente",
       href: "/landing4-datup",
