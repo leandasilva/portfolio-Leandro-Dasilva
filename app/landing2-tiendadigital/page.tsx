@@ -95,15 +95,15 @@ export default function Landing() {
         <h2 className="text-3xl font-semibold text-center mb-12">Testimonios</h2>
         <div className="grid md:grid-cols-3 gap-8 max-w-6xl mx-auto">
           <div className="p-6 bg-gray-800 rounded-xl shadow hover:shadow-lg transition">
-            <p className="text-gray-300 italic">"Gracias a TuNegocioDigital ahora controlo mejor mi stock y mis ventas."</p>
+            <p className="text-gray-300 italic">Gracias a TuNegocioDigital ahora controlo mejor mi stock y mis ventas.</p>
             <h4 className="mt-4 font-bold">— Ana, dueña de minimercado</h4>
           </div>
           <div className="p-6 bg-gray-800 rounded-xl shadow hover:shadow-lg transition">
-            <p className="text-gray-300 italic">"Me facilitó mucho generar reportes y tomar decisiones rápidas."</p>
+            <p className="text-gray-300 italic">Me facilitó mucho generar reportes y tomar decisiones rápidas.</p>
             <h4 className="mt-4 font-bold">— Carlos, restaurante</h4>
           </div>
           <div className="p-6 bg-gray-800 rounded-xl shadow hover:shadow-lg transition">
-            <p className="text-gray-300 italic">"Una plataforma simple y muy intuitiva para mis empleados."</p>
+            <p className="text-gray-300 italic">Una plataforma simple y muy intuitiva para mis empleados.</p>
             <h4 className="mt-4 font-bold">— Sofía, farmacia</h4>
           </div>
         </div>

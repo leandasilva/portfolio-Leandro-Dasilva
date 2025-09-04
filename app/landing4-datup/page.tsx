@@ -38,7 +38,7 @@ export default function FrasesCardsLanding() {
         <div className="grid md:grid-cols-3 gap-10 max-w-6xl mx-auto">
           <div className="p-6 bg-gray-800 rounded-xl shadow-lg hover:shadow-2xl transition">
             <h3 className="text-xl font-bold mb-3">Busqueda y oferta de empleo</h3>
-            <p className="text-gray-400">Permite agregar y eliminar publicaciones de empleos generar usuarios perfiles tanto empresas como usuarios que solicitan job's de manera dinámica con una UI responsiva.</p>
+            <p className="text-gray-400">Permite agregar y eliminar publicaciones de empleos generar usuarios perfiles tanto empresas como usuarios que solicitan job de manera dinámica con una UI responsiva.</p>
           </div>
           <div className="p-6 bg-gray-800 rounded-xl shadow-lg hover:shadow-2xl transition">
             <h3 className="text-xl font-bold mb-3">UI Moderna</h3>
