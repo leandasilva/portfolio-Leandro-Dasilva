@@ -23,11 +23,13 @@ export default function Home() {
       descripcion: "Proyecto en el que trabajo en remoto actualmente",
       href: "/landing4-datup",
     },
+    /*
     {
       titulo: "React Native - Proyecto en desarrollo",
       descripcion: "Portfolio personal con React Native + Tailwind",
       href: "/",
     },
+    */
   ];
 
   return (
