@@ -18,7 +18,7 @@ export default function PostsLanding() {
             Ver Proyecto
           </a>
           <a
-            href="https://github.com/leandasilva"
+            href="https://github.com/leandasilva/React-Native"
             target="_blank"
             rel="noopener noreferrer"
             className="px-6 py-3 border border-white rounded-lg hover:bg-white hover:text-black transition"
@@ -119,7 +119,7 @@ export default function PostsLanding() {
             🚀 Ver Proyecto
           </a>
           <a
-            href="https://github.com/leandasilva"
+            href="https://github.com/leandasilva/React-Native"
             target="_blank"
             rel="noopener noreferrer"
             className="px-8 py-4 border border-white rounded-lg hover:bg-white hover:text-black transition"
