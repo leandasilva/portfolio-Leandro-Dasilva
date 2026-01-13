@@ -10,7 +10,7 @@ export default function Landing() {
         </p>
         <div className="mt-6">
           <a
-            href="https://tunegociodigital.website/"
+            href="https://tunegociodigital.vercel.app/"
             target="_blank"
             rel="noopener noreferrer"
             className="px-6 py-3 bg-blue-600 rounded-lg shadow-lg hover:bg-blue-700 transition"
@@ -25,7 +25,7 @@ export default function Landing() {
         <h2 className="text-3xl font-semibold mb-8">Vista previa</h2>
         <div className="max-w-4xl mx-auto rounded-2xl overflow-hidden shadow-lg">
           <iframe
-            src="https://tunegociodigital.website/"
+            src="https://tunegociodigital.vercel.app/"
             className="w-full h-[500px] border-0"
             title="TuNegocioDigital Preview"
           ></iframe>
